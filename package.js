@@ -2,7 +2,7 @@ Package.describe({
   summary: "bootstrap-select for meteor apps",
   name: 'maabed:bootstrap-select',
   version: "1.0.0",
-  git: " \* Fill me in! *\ "
+  git: "https://github.com/maabed/meteor-bootstrap-select"
 });
 
 Package.onUse(function(api) {
