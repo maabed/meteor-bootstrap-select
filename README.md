@@ -14,4 +14,5 @@ See a Bootstrap 3.2.0 example [here](http://silviomoreto.github.io/bootstrap-sel
 
 
 
-[Meteor Demo Example](https://github.com/maabed/Meteor-Chain-Selectlist)
+[Demo: country/states/city](https://github.com/maabed/Meteor-Chain-Selectlist)
+[Demo: Car makers/models/years/trims](https://github.com/maabed/Meteor-Chain-Selectlist/tree/car-example)
